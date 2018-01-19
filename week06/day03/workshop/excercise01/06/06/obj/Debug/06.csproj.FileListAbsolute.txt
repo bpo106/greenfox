@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\obj\Debug\06.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\obj\Debug\06.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\bin\Debug\06.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\bin\Debug\06.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\bin\Debug\06.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\obj\Debug\06.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day03\workshop\excercise01\06\06\obj\Debug\06.pdb

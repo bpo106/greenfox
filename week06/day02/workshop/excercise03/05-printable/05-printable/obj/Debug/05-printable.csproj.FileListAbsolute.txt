@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\bin\Debug\05-printable.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\bin\Debug\05-printable.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\bin\Debug\05-printable.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\obj\Debug\05-printable.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\obj\Debug\05-printable.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\obj\Debug\05-printable.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise03\05-printable\05-printable\obj\Debug\05-printable.pdb

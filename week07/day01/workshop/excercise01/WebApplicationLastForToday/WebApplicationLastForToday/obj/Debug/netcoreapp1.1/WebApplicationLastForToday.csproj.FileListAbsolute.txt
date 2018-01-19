@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\bin\Debug\netcoreapp1.1\WebApplicationLastForToday.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\bin\Debug\netcoreapp1.1\WebApplicationLastForToday.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\bin\Debug\netcoreapp1.1\WebApplicationLastForToday.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\bin\Debug\netcoreapp1.1\WebApplicationLastForToday.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\obj\Debug\netcoreapp1.1\WebApplicationLastForToday.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\obj\Debug\netcoreapp1.1\WebApplicationLastForToday.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\obj\Debug\netcoreapp1.1\WebApplicationLastForToday.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\bin\Debug\netcoreapp1.1\WebApplicationLastForToday.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\obj\Debug\netcoreapp1.1\WebApplicationLastForToday.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day01\workshop\excercise01\WebApplicationLastForToday\WebApplicationLastForToday\obj\Debug\netcoreapp1.1\WebApplicationLastForToday.pdb

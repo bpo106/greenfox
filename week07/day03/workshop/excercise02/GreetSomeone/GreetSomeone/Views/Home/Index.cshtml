@@ -1,0 +1,22 @@
+﻿@model GreetSomeone.Models.Name
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Name required</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    @Html.ValidationSummary()
+
+    @using (Html.BeginForm("index", "home", FormMethod.Post))
+    {
+        <p>
+            Type your name here:
+        </p>
+        <p>
+            @Html.TextBoxFor(model => model.Namestring)
+        </p>
+        <button type="submit">Post</button>
+    }
+</body>
+</html>

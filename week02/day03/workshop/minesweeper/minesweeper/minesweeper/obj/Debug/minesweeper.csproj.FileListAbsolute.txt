@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+C:\Users\Boldizsár\greenfox\bpo106\week02\day03\workshop\minesweeper\minesweeper\minesweeper\obj\Debug\minesweeper.pdb

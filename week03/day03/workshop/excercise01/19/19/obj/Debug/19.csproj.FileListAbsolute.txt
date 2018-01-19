@@ -1,0 +1,15 @@
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\bin\Debug\19.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\bin\Debug\19.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\bin\Debug\19.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\MainWindow.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\App.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19_MarkupCompile.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19_MarkupCompile.lref
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\MainWindow.baml
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.g.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\_19.Properties.Resources.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.csproj.GenerateResource.Cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\19\19\obj\Debug\19.pdb

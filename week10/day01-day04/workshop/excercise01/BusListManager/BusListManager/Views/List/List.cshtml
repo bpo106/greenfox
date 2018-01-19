@@ -1,0 +1,69 @@
+﻿@model Microsoft.EntityFrameworkCore.DbSet<BusListManager.Models.Bus>
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Bus list</title>
+</head>
+<body>
+    <h1 style="text-align:center">Bus list</h1>
+    <table align="center" style="text-align:center" border="1">
+        <tr>
+            <td>Number</td>
+            <td>Prev. number</td>
+            <td>License plate</td>
+            <td>Prev. lic. pl.</td>
+            <td>Type</td>
+            <td>Depot</td>
+            <td>Date of get</td>
+            <td>Date of withdrawal</td>
+            <td>Distance (km)</td>
+            <td>Op. status</td>
+            <td>Comments</td>
+            <td>Update</td>
+            <td>Delete</td>
+        </tr>
+        @foreach (var element in @Model)
+        {
+            <tr>
+                <td>@element.Number</td>
+                <td>@element.FormerNumber</td>
+                <td>@element.LicensePlate</td>
+                <td>@element.FormerLicensePlate</td>
+                <td>@element.Type</td>
+                <td>@element.Depot</td>
+                <td>@element.DateOfGet</td>
+                <td>@element.DateOfWithdrawal</td>
+                <td>@element.Kilometer</td>
+                <td>
+                    @if (@element.IsInOperation)
+                    {
+                        @:In operation
+                    }
+                    else
+                    {
+                        @:Withdrawn
+                    }
+                </td>
+                <td>@element.Comments</td>
+                <td>
+                    <form action="/update">
+                        <input type="hidden" name="Id" value="@element.Id" />
+                        <button type="submit" style="width:100%">Update</button>
+                    </form>
+                </td>
+                <td>
+                    <form action="/remove" method="post">
+                        <input type="hidden" name="Id" value="@element.Id" />
+                        <button type="submit" style="width:100%">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+
+    <br /><form align="center" action="/add">
+        <button type="submit">Add new bus</button>
+    </form>
+
+</body>
+</html>

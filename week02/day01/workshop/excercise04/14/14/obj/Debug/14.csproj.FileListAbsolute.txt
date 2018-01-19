@@ -1,0 +1,7 @@
+c:\users\boldizsár\source\repos\14\14\bin\Debug\14.exe.config
+c:\users\boldizsár\source\repos\14\14\bin\Debug\14.exe
+c:\users\boldizsár\source\repos\14\14\bin\Debug\14.pdb
+c:\users\boldizsár\source\repos\14\14\obj\Debug\14.csprojResolveAssemblyReference.cache
+c:\users\boldizsár\source\repos\14\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+c:\users\boldizsár\source\repos\14\14\obj\Debug\14.exe
+c:\users\boldizsár\source\repos\14\14\obj\Debug\14.pdb

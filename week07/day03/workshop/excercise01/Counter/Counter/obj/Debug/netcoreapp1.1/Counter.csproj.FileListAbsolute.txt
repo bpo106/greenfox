@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise01\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.pdb

@@ -1,0 +1,16 @@
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\nunit.engine.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\nunit.engine.api.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Mono.Cecil.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\nunit.framework.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\bin\Debug\nunit.framework.xml
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Animals\Animals\obj\Debug\Animals.pdb

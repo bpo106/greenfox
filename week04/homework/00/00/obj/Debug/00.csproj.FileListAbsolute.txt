@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\bin\Debug\00.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\bin\Debug\00.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\bin\Debug\00.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\obj\Debug\00.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\obj\Debug\00.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\obj\Debug\00.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\homework\00\00\obj\Debug\00.pdb

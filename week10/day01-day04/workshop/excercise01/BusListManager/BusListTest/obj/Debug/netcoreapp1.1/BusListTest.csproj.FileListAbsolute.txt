@@ -1,0 +1,16 @@
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListTest.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListTest.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListTest.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListTest.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListManager.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListManager.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\obj\Debug\netcoreapp1.1\BusListTest.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\obj\Debug\netcoreapp1.1\BusListTest.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\obj\Debug\netcoreapp1.1\BusListTest.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\BusListTest.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\obj\Debug\netcoreapp1.1\BusListTest.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\obj\Debug\netcoreapp1.1\BusListTest.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week10\day01-day04\workshop\excercise01\BusListManager\BusListTest\bin\Debug\netcoreapp1.1\appsettings.json

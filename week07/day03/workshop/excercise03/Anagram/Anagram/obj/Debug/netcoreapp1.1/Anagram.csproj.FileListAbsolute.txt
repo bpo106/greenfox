@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day03\workshop\excercise03\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.AssemblyInfo.cs

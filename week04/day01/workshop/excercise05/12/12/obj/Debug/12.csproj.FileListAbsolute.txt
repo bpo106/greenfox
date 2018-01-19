@@ -1,0 +1,2 @@
+C:\Users\Boldizsár\greenfox\bpo106\week04\day01\workshop\excercise05\12\12\obj\Debug\12.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\day01\workshop\excercise05\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache

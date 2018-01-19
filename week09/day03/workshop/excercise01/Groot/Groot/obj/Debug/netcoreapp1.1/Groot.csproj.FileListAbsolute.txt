@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\bin\Debug\netcoreapp1.1\Groot.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\bin\Debug\netcoreapp1.1\Groot.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\bin\Debug\netcoreapp1.1\Groot.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\bin\Debug\netcoreapp1.1\Groot.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\obj\Debug\netcoreapp1.1\Groot.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\obj\Debug\netcoreapp1.1\Groot.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\bin\Debug\netcoreapp1.1\Groot.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\obj\Debug\netcoreapp1.1\Groot.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\obj\Debug\netcoreapp1.1\Groot.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot\obj\Debug\netcoreapp1.1\Groot.csprojResolveAssemblyReference.cache

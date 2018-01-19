@@ -1,0 +1,14 @@
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\bin\Debug\05.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\bin\Debug\05.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\bin\Debug\05.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\MainWindow.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\App.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05_MarkupCompile.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05_MarkupCompile.lref
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\MainWindow.baml
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05.g.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05.csproj.GenerateResource.Cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\05\05\obj\Debug\05.pdb

@@ -1,0 +1,8 @@
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\bin\Debug\Apples.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\bin\Debug\Apples.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\bin\Debug\Apples.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\bin\Debug\nunit.framework.dll
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\bin\Debug\nunit.framework.xml
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\obj\Debug\Apples.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\obj\Debug\Apples.exe
+C:\Users\Boldizsár\greenfox\bpo106\week04\day03\workshop\excercise01\Apples\Apples\obj\Debug\Apples.pdb

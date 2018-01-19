@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\bin\Debug\netcoreapp1.1\Reddit.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\bin\Debug\netcoreapp1.1\Reddit.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\bin\Debug\netcoreapp1.1\Reddit.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\bin\Debug\netcoreapp1.1\Reddit.dll
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\obj\Debug\netcoreapp1.1\Reddit.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\obj\Debug\netcoreapp1.1\Reddit.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\obj\Debug\netcoreapp1.1\Reddit.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\bin\Debug\netcoreapp1.1\Reddit.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\obj\Debug\netcoreapp1.1\Reddit.dll
+C:\Users\Boldizsár\greenfox\bpo106\week08\day05\workshop\excercise01\Reddit\Reddit\obj\Debug\netcoreapp1.1\Reddit.pdb

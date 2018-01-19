@@ -1,0 +1,15 @@
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\FrontendTest.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\FrontendTest.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\FrontendTest.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\FrontendTest.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\obj\Debug\netcoreapp1.1\FrontendTest.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\obj\Debug\netcoreapp1.1\FrontendTest.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\obj\Debug\netcoreapp1.1\FrontendTest.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\FrontendTest.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\Frontend.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\bin\Debug\netcoreapp1.1\Frontend.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\obj\Debug\netcoreapp1.1\FrontendTest.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\excercise01\Frontend\FrontendTest\obj\Debug\netcoreapp1.1\FrontendTest.pdb

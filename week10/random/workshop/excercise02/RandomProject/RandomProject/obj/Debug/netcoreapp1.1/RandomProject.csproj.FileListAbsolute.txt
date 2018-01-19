@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\bin\Debug\netcoreapp1.1\RandomProject.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\bin\Debug\netcoreapp1.1\RandomProject.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\bin\Debug\netcoreapp1.1\RandomProject.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\bin\Debug\netcoreapp1.1\RandomProject.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\obj\Debug\netcoreapp1.1\RandomProject.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\obj\Debug\netcoreapp1.1\RandomProject.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\obj\Debug\netcoreapp1.1\RandomProject.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\bin\Debug\netcoreapp1.1\RandomProject.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\obj\Debug\netcoreapp1.1\RandomProject.dll
+C:\Users\Boldizsár\greenfox\bpo106\week10\random\workshop\excercise02\RandomProject\RandomProject\obj\Debug\netcoreapp1.1\RandomProject.pdb

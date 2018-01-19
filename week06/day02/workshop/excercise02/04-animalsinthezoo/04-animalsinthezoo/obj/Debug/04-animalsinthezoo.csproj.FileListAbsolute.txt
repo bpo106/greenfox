@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\bin\Debug\04-animalsinthezoo.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\bin\Debug\04-animalsinthezoo.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\bin\Debug\04-animalsinthezoo.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\obj\Debug\04-animalsinthezoo.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\obj\Debug\04-animalsinthezoo.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\obj\Debug\04-animalsinthezoo.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise02\04-animalsinthezoo\04-animalsinthezoo\obj\Debug\04-animalsinthezoo.pdb

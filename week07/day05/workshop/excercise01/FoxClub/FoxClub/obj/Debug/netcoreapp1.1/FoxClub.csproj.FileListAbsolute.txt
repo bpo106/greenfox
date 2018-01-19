@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\bin\Debug\netcoreapp1.1\FoxClub.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\bin\Debug\netcoreapp1.1\FoxClub.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\bin\Debug\netcoreapp1.1\FoxClub.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\bin\Debug\netcoreapp1.1\FoxClub.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\obj\Debug\netcoreapp1.1\FoxClub.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\obj\Debug\netcoreapp1.1\FoxClub.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\obj\Debug\netcoreapp1.1\FoxClub.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\bin\Debug\netcoreapp1.1\FoxClub.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\obj\Debug\netcoreapp1.1\FoxClub.dll
+C:\Users\Boldizsár\greenfox\bpo106\week07\day05\workshop\excercise01\FoxClub\FoxClub\obj\Debug\netcoreapp1.1\FoxClub.pdb

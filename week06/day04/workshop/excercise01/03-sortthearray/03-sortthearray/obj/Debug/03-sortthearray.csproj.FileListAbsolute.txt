@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\bin\Debug\03-sortthearray.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\bin\Debug\03-sortthearray.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\bin\Debug\03-sortthearray.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\obj\Debug\03-sortthearray.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\obj\Debug\03-sortthearray.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\obj\Debug\03-sortthearray.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day04\workshop\excercise01\03-sortthearray\03-sortthearray\obj\Debug\03-sortthearray.pdb

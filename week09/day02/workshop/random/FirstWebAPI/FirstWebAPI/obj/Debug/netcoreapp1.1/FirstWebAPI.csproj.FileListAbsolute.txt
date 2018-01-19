@@ -1,0 +1,10 @@
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp1.1\FirstWebAPI.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp1.1\FirstWebAPI.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp1.1\FirstWebAPI.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp1.1\FirstWebAPI.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp1.1\FirstWebAPI.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp1.1\FirstWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp1.1\FirstWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp1.1\FirstWebAPI.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp1.1\FirstWebAPI.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day02\workshop\random\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp1.1\FirstWebAPI.pdb

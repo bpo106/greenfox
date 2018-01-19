@@ -1,0 +1,15 @@
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.IntegrationTests.deps.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.IntegrationTests.runtimeconfig.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.IntegrationTests.runtimeconfig.dev.json
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.IntegrationTests.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\obj\Debug\netcoreapp1.1\Groot.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\obj\Debug\netcoreapp1.1\Groot.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\obj\Debug\netcoreapp1.1\Groot.IntegrationTests.AssemblyInfo.cs
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\bin\Debug\netcoreapp1.1\Groot.IntegrationTests.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\obj\Debug\netcoreapp1.1\Groot.IntegrationTests.dll
+C:\Users\Boldizsár\greenfox\bpo106\week09\day03\workshop\excercise01\Groot\Groot.IntegrationTests\obj\Debug\netcoreapp1.1\Groot.IntegrationTests.pdb

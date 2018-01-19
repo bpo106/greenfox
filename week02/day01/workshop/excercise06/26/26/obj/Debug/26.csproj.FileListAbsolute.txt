@@ -1,0 +1,6 @@
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\obj\Debug\26.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\bin\Debug\26.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\bin\Debug\26.exe
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\bin\Debug\26.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\obj\Debug\26.exe
+C:\Users\Boldizsár\greenfox\bpo106\week02\day01\workshop\excercise06\26\26\obj\Debug\26.pdb

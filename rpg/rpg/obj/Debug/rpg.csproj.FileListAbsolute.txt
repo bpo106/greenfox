@@ -1,0 +1,15 @@
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\bin\Debug\rpg.exe.config
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\bin\Debug\rpg.exe
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\bin\Debug\rpg.pdb
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\MainWindow.g.cs
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\App.g.cs
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg_MarkupCompile.cache
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg_MarkupCompile.lref
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\MainWindow.baml
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.g.resources
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.Properties.Resources.resources
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.csproj.GenerateResource.Cache
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.exe
+C:\Users\Boldizsár\greenfox\bpo106-RPG\rpg\rpg\obj\Debug\rpg.pdb

@@ -1,0 +1,15 @@
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\MainWindow.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\App.g.cs
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04_MarkupCompile.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04_MarkupCompile.lref
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\bin\Debug\04.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\bin\Debug\04.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\bin\Debug\04.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\MainWindow.baml
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.g.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\_04.Properties.Resources.resources
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.csproj.GenerateResource.Cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.exe
+C:\Users\Boldizsár\greenfox\bpo106\week03\day03\workshop\excercise01\04\04\obj\Debug\04.pdb

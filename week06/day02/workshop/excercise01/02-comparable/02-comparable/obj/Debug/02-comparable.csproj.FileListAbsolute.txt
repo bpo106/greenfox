@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\bin\Debug\02-comparable.exe.config
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\bin\Debug\02-comparable.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\bin\Debug\02-comparable.pdb
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\obj\Debug\02-comparable.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\obj\Debug\02-comparable.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\obj\Debug\02-comparable.exe
+C:\Users\Boldizsár\greenfox\bpo106\week06\day02\workshop\excercise01\02-comparable\02-comparable\obj\Debug\02-comparable.pdb
